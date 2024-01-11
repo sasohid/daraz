@@ -1,0 +1,64 @@
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+#bodar{
+   justify-content: center;
+   display: flex;
+   height: 450px;
+   align-items: center;
+   background-image: url(image/images.jpg); 
+   /* background-color: chartreuse; */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-blend-mode: multiply; 
+}
+
+#scentboder{
+
+   width: 500px;
+   padding: 10px;
+   align-items: center;
+
+}
+
+#scentboder h1{
+
+   color:white;
+   font-size: 30px;
+   font-family: 'Times New Roman', Times, serif;
+   margin-bottom: 10px;
+
+}
+
+#scentboder h2{
+
+   color:wheat;
+   font-family: 'Times New Roman', Times, serif;
+   margin-bottom: 12px;
+   font-size: 20px;
+}
+
+#scentboder h3{
+
+   color:wheat;
+   font-family: 'Times New Roman', Times, serif;
+   margin-bottom: 12px;
+   font-size: 20px;
+}
+
+#scentboder button{
+
+color: wheat;
+background-color: rgb(14, 10, 228);
+padding: 10px 15px;
+border: none;
+border-radius: 10px;
+
+
+}
+
+
